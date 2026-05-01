@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.env.local
+.pytest_cache/
+.venv/
+venv/
+env/
+*.so
+.Python
+pip-log.txt
+health_artifact.json
+.git/
+.gitignore
+README.md

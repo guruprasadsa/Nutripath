@@ -37,3 +37,6 @@ desktop.ini
 
 # Project Artifacts (generated at runtime)
 health_artifact.json
+
+# Docker (local only)
+docker-compose.override.yml
